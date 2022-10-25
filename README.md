@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EthanWinters2885
-- 👀 I’m interested in ... video games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Ethan Winters#2885
+- 👋 Hi, I’m @EthanWinters 3902
+- 👀 I’m interested in ... video games, coding, much more
+- 🌱 I’m currently learning ... HTML, Python, [planning to learn C# and Java]
+- 💞️ I’m looking to collaborate on ... Nothing yet
+- 📫 How to reach me ... Ethan Winters#3902
 
 <!---
 EthanWinters2885/EthanWinters2885 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
